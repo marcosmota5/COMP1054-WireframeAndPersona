@@ -1,54 +1,13 @@
-Persona 1
-Name: Marcos Mota
-Email: 200564426@student.georgianc.on.ca
-Location: Toronto, ON, Canada
-Birth Date and Age: 05/10/1993 (30 years old)
-Sex: Male
-Phone Number: +1 437 870 9799
-Bio: Certified specialist with years of experience in designing, developing, testing and monitoring reports, dashboards, 
-and applications in multiple technologies such as Microsoft Power BI, C#, VBA (Visual Basic for Applications), 
-MS Excel, SQL Server and many others. Having developed high-level reports, solutions, and applications for over 
-8 years that significantly enhanced the performance of various companies and departments. Helping businesses to 
-move towards data-driven decisions and users to focus on what matters: analyzing data and providing value.
-
-Post graduated in Business Intelligence and Analytics.
-
-Awarded for designing and developing an entire ETL process for a payroll system migration using different tools. 
-
-Microsoft Certified: Power BI Analyst Associate (PL-300)
-Interests: Programming, Data analysis, gaming, web development, desktop development, movies, music
-Identity Number: CA123456789
-Language: English
-Preferred Theme: Light
-
-
-
-
-Persona 2
+Persona
 Name: Emily Roberts
 Email: emily.roberts@example.com
-Location: London, UK
-Birth Date and Age: 12/07/1990 (33 years old)
+Location: Toronto, CA
+Birth Date and Age: 12/07/1998 (28 years old)
 Sex: Female
-Phone Number: +44 7911 123456
-Bio: Freelance graphic designer, enjoys creating visually appealing and effective marketing materials. Has been in the design industry for over 10 years and loves staying updated with the latest design trends.
+Phone Number: +1 416 965 5569
+Bio: Freelance graphic designer, I enjoy creating visually appealing and effective marketing materials. I've been working in the design industry for over 5 years and I love staying updated with the latest design trends. My passion for design drives me to constantly explore new tools and techniques, allowing me to bring fresh and innovative ideas to my projects. I thrive on collaborating with clients to understand their vision and help them achieve their branding and marketing goals.
+Purpose of the Visit to the Website: To explore the available products and options, and also to get new insights provided by the blog posts.
 Interests: Graphic design, photography, travel, and fashion.
-Identity Number: UK12345678
+Identity Number: CA12345678
 Language: English
 Preferred Theme: Light
-
-
-
-
-Persona 3
-Name: Carlos Mendez
-Email: carlos.mendez@example.com
-Location: Madrid, Spain
-Birth Date and Age: 05/03/1985 (39 years old)
-Sex: Male
-Phone Number: +34 612 345678
-Bio: Marketing manager at a tech startup. Passionate about digital marketing strategies and data analytics. Always on the lookout for innovative ways to boost online presence.
-Interests: Digital marketing, technology, soccer, and cooking.
-Identity Number: ES987654321
-Language: Spanish
-Preferred Theme: Dark
